@@ -1,0 +1,17 @@
+
+.banner a {
+  color: white;
+  font-weight:550;
+  background-color: #C0DACF;
+  display: inline-block;
+  padding-inline: 23px;
+  padding-block: 12px;
+  border-radius: 50px;
+  margin-top: 15px;
+}
+
+.banner a:hover {
+  background-color: white;
+  color: #1CAF8C;
+  transition: 0.9s;
+}

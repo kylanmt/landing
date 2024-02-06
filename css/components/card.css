@@ -1,0 +1,41 @@
+.cards {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.card-echanges {
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  width: 200px;
+  height: 300px;
+}
+
+.card-echanges img {
+  width: 100px;
+}
+
+.card-komu {
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  width: 200px;
+  height: 300px;
+}
+
+.card-komu img {
+  width: 100px;
+}
+
+.card-securite {
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  width: 200px;
+  height: 300px;
+}
+
+.card-securite img {
+  width: 100px;
+}
